@@ -1,0 +1,37 @@
+[1.494s] Invoking command in '/home/dds/DDS/autonomy_ws/src/dds_mission': PYTHONPATH=/home/dds/DDS/autonomy_ws/build/dds_mission/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/dds/DDS/autonomy_ws/install/dds_mission/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/dds_mission build --build-base /home/dds/DDS/autonomy_ws/build/dds_mission/build install --record /home/dds/DDS/autonomy_ws/build/dds_mission/install.log --single-version-externally-managed install_data
+[2.024s] running egg_info
+[2.026s] creating ../../build/dds_mission/dds_mission.egg-info
+[2.026s] writing ../../build/dds_mission/dds_mission.egg-info/PKG-INFO
+[2.026s] writing dependency_links to ../../build/dds_mission/dds_mission.egg-info/dependency_links.txt
+[2.027s] writing entry points to ../../build/dds_mission/dds_mission.egg-info/entry_points.txt
+[2.027s] writing requirements to ../../build/dds_mission/dds_mission.egg-info/requires.txt
+[2.028s] writing top-level names to ../../build/dds_mission/dds_mission.egg-info/top_level.txt
+[2.028s] writing manifest file '../../build/dds_mission/dds_mission.egg-info/SOURCES.txt'
+[2.033s] reading manifest file '../../build/dds_mission/dds_mission.egg-info/SOURCES.txt'
+[2.035s] writing manifest file '../../build/dds_mission/dds_mission.egg-info/SOURCES.txt'
+[2.035s] running build
+[2.035s] running build_py
+[2.036s] creating /home/dds/DDS/autonomy_ws/build/dds_mission/build
+[2.036s] creating /home/dds/DDS/autonomy_ws/build/dds_mission/build/lib
+[2.037s] creating /home/dds/DDS/autonomy_ws/build/dds_mission/build/lib/dds_mission
+[2.037s] copying dds_mission/mission.py -> /home/dds/DDS/autonomy_ws/build/dds_mission/build/lib/dds_mission
+[2.038s] copying dds_mission/__init__.py -> /home/dds/DDS/autonomy_ws/build/dds_mission/build/lib/dds_mission
+[2.038s] running install
+[2.039s] running install_lib
+[2.040s] creating /home/dds/DDS/autonomy_ws/install/dds_mission/lib/python3.10/site-packages/dds_mission
+[2.041s] copying /home/dds/DDS/autonomy_ws/build/dds_mission/build/lib/dds_mission/mission.py -> /home/dds/DDS/autonomy_ws/install/dds_mission/lib/python3.10/site-packages/dds_mission
+[2.042s] copying /home/dds/DDS/autonomy_ws/build/dds_mission/build/lib/dds_mission/__init__.py -> /home/dds/DDS/autonomy_ws/install/dds_mission/lib/python3.10/site-packages/dds_mission
+[2.042s] byte-compiling /home/dds/DDS/autonomy_ws/install/dds_mission/lib/python3.10/site-packages/dds_mission/mission.py to mission.cpython-310.pyc
+[2.043s] byte-compiling /home/dds/DDS/autonomy_ws/install/dds_mission/lib/python3.10/site-packages/dds_mission/__init__.py to __init__.cpython-310.pyc
+[2.044s] running install_data
+[2.044s] creating /home/dds/DDS/autonomy_ws/install/dds_mission/share/ament_index
+[2.044s] creating /home/dds/DDS/autonomy_ws/install/dds_mission/share/ament_index/resource_index
+[2.044s] creating /home/dds/DDS/autonomy_ws/install/dds_mission/share/ament_index/resource_index/packages
+[2.044s] copying resource/dds_mission -> /home/dds/DDS/autonomy_ws/install/dds_mission/share/ament_index/resource_index/packages
+[2.045s] copying package.xml -> /home/dds/DDS/autonomy_ws/install/dds_mission/share/dds_mission
+[2.045s] running install_egg_info
+[2.050s] Copying ../../build/dds_mission/dds_mission.egg-info to /home/dds/DDS/autonomy_ws/install/dds_mission/lib/python3.10/site-packages/dds_mission-0.0.0-py3.10.egg-info
+[2.052s] running install_scripts
+[2.103s] Installing mission script to /home/dds/DDS/autonomy_ws/install/dds_mission/lib/dds_mission
+[2.103s] writing list of installed files to '/home/dds/DDS/autonomy_ws/build/dds_mission/install.log'
+[2.207s] Invoked command in '/home/dds/DDS/autonomy_ws/src/dds_mission' returned '0': PYTHONPATH=/home/dds/DDS/autonomy_ws/build/dds_mission/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/dds/DDS/autonomy_ws/install/dds_mission/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/dds_mission build --build-base /home/dds/DDS/autonomy_ws/build/dds_mission/build install --record /home/dds/DDS/autonomy_ws/build/dds_mission/install.log --single-version-externally-managed install_data

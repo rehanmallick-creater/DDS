@@ -1,0 +1,21 @@
+[0.693s] Invoking command in '/home/dds/DDS/autonomy_ws/src/dds_mission': PYTHONPATH=/home/dds/DDS/autonomy_ws/build/dds_mission/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/dds/DDS/autonomy_ws/install/dds_mission/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/dds_mission build --build-base /home/dds/DDS/autonomy_ws/build/dds_mission/build install --record /home/dds/DDS/autonomy_ws/build/dds_mission/install.log --single-version-externally-managed install_data
+[0.955s] running egg_info
+[0.956s] writing ../../build/dds_mission/dds_mission.egg-info/PKG-INFO
+[0.956s] writing dependency_links to ../../build/dds_mission/dds_mission.egg-info/dependency_links.txt
+[0.956s] writing entry points to ../../build/dds_mission/dds_mission.egg-info/entry_points.txt
+[0.956s] writing requirements to ../../build/dds_mission/dds_mission.egg-info/requires.txt
+[0.957s] writing top-level names to ../../build/dds_mission/dds_mission.egg-info/top_level.txt
+[0.958s] reading manifest file '../../build/dds_mission/dds_mission.egg-info/SOURCES.txt'
+[0.960s] writing manifest file '../../build/dds_mission/dds_mission.egg-info/SOURCES.txt'
+[0.960s] running build
+[0.960s] running build_py
+[0.960s] running install
+[0.960s] running install_lib
+[0.962s] running install_data
+[0.962s] running install_egg_info
+[0.964s] removing '/home/dds/DDS/autonomy_ws/install/dds_mission/lib/python3.10/site-packages/dds_mission-0.0.0-py3.10.egg-info' (and everything under it)
+[0.964s] Copying ../../build/dds_mission/dds_mission.egg-info to /home/dds/DDS/autonomy_ws/install/dds_mission/lib/python3.10/site-packages/dds_mission-0.0.0-py3.10.egg-info
+[0.965s] running install_scripts
+[0.990s] Installing mission script to /home/dds/DDS/autonomy_ws/install/dds_mission/lib/dds_mission
+[0.991s] writing list of installed files to '/home/dds/DDS/autonomy_ws/build/dds_mission/install.log'
+[1.028s] Invoked command in '/home/dds/DDS/autonomy_ws/src/dds_mission' returned '0': PYTHONPATH=/home/dds/DDS/autonomy_ws/build/dds_mission/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/dds/DDS/autonomy_ws/install/dds_mission/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/dds_mission build --build-base /home/dds/DDS/autonomy_ws/build/dds_mission/build install --record /home/dds/DDS/autonomy_ws/build/dds_mission/install.log --single-version-externally-managed install_data

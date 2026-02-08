@@ -1,0 +1,16 @@
+package.xml
+setup.cfg
+setup.py
+../../build/dds_mission/dds_mission.egg-info/PKG-INFO
+../../build/dds_mission/dds_mission.egg-info/SOURCES.txt
+../../build/dds_mission/dds_mission.egg-info/dependency_links.txt
+../../build/dds_mission/dds_mission.egg-info/entry_points.txt
+../../build/dds_mission/dds_mission.egg-info/requires.txt
+../../build/dds_mission/dds_mission.egg-info/top_level.txt
+../../build/dds_mission/dds_mission.egg-info/zip-safe
+dds_mission/__init__.py
+dds_mission/mission.py
+resource/dds_mission
+test/test_copyright.py
+test/test_flake8.py
+test/test_pep257.py
